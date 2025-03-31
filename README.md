@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
 [![GitHub](https://img.shields.io/github/license/MISTERKID/mono-marketplace)](https://github.com/MISTERKID/mono-marketplace)
 
-[View Demo](https://mono-marketplace.vercel.app) · [Report Bug](https://github.com/MISTERKID/mono-marketplace/issues) · [Request Feature](https://github.com/MISTERKID/mono-marketplace/issues)
+[Report Bug](https://github.com/MISTERKID/mono-marketplace/issues) · [Request Feature](https://github.com/MISTERKID/mono-marketplace/issues)
 
 </div>
 
@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Give a ⭐️ if you like this project!
 
-Made with ❤️ by Sai Seng Main
+Made with ❤️ by [MISTERKID](https://github.com/MISTERKID)
 
 </div> 
