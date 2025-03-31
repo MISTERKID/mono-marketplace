@@ -9,6 +9,9 @@
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
+[![GitHub](https://img.shields.io/github/license/MISTERKID/mono-marketplace)](https://github.com/MISTERKID/mono-marketplace)
+
+[View Demo](https://mono-marketplace.vercel.app) · [Report Bug](https://github.com/MISTERKID/mono-marketplace/issues) · [Request Feature](https://github.com/MISTERKID/mono-marketplace/issues)
 
 </div>
 
@@ -50,7 +53,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/mono-marketplace.git
+git clone https://github.com/MISTERKID/mono-marketplace.git
 
 # Navigate to project directory
 cd mono-marketplace
@@ -102,5 +105,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
+
+### Show your support
+
+Give a ⭐️ if you like this project!
+
 Made with ❤️ by Sai Seng Main
+
 </div> 
